@@ -9,7 +9,7 @@
     "@uncovertruth/eslint-config-react": "4.4.0",
     "babel-eslint": "10.1.0",
     "crowdin-cli": "0.3.0",
-    "eslint-plugin-react": "7.29.4"
+    "eslint-plugin-react": "7.30.0"
   },
   "private": true,
   "scripts": {
