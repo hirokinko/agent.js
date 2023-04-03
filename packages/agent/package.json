@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@types/js-cookie": "3.0.2",
-    "@types/uuid": "8.3.4"
+    "@types/uuid": "9.0.1"
   },
   "engine": {
     "node": "> 5"
