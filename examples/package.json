@@ -3,11 +3,11 @@
   "version": "3.0.0",
   "devDependencies": {
     "@types/query-string": "6.2.0",
-    "gh-pages": "4.0.0",
+    "gh-pages": "6.2.0",
     "pug": "3.0.2",
     "pug-cli": "1.0.0-alpha6",
-    "query-string": "7.1.1",
-    "testcafe": "1.18.6"
+    "query-string": "9.1.1",
+    "testcafe": "3.6.2"
   },
   "license": "MIT",
   "main": "n/a",
